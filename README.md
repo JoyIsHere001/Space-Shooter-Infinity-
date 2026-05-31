@@ -1,6 +1,6 @@
 # 🎯 Space Shooter: Infinity
 
-This is a fast-paced **2D arcade-style space shooter game** developed using **C++** and **SFML (Simple and Fast Multimedia Library)**.This project demonstrates multiple core mechanics of **2D game development**, including:
+This is a fast-paced **2D arcade-style space shooter game** developed using **C++** and **SFML**.This project demonstrates multiple core mechanics of **2D game development**,including:
 
 * Dynamic scrolling backgrounds
 * Enemy spawning systems
@@ -33,9 +33,7 @@ This is a fast-paced **2D arcade-style space shooter game** developed using **C+
 * 🖱️ Hover & click UI sounds
 ---
 
-# 🧰 Requirements:
-
-## 📚 Primary SDKs / Libraries:
+# 📚 Primary SDKs / Libraries:
 
 * **C++17 Compatible Compiler**
 * **SFML 2.6+**
@@ -43,14 +41,14 @@ This is a fast-paced **2D arcade-style space shooter game** developed using **C+
 
 ---
 
-## 💻 Supported Platforms:
+# 💻 Supported Platforms:
 
 * Windows (Tested)
 * macOS
 
 ---
 
-## ⚙️ Additional Requirements:
+# ⚙️ Additional Requirements:
 
 * Proper SFML DLL setup
 * Terminal / PowerShell / Command Prompt
