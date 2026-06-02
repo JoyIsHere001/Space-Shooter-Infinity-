@@ -167,21 +167,27 @@ SpaceShooter.exe
 ---
 # 🖼️ Sample Gameplay:
 
-![](./gameplay/gameplay1.png) ![](./screenshots/gameplay2.png) ![](./screenshots/gameplay3.png) ![](./screenshots/gameplay4.png)
+## 🎮 Main Menu
+
+![Main Menu](./gameplay/gameplay1.png)
 
 ---
 
+## 🚀 Gameplay Action
 
-
----
-
-
+![Gameplay 1](./gameplay/gameplay2.png)
 
 ---
 
+## 💥 Explosion & Combat
 
+![Gameplay 2](./gameplay/gameplay_2.png)
 
 ---
+
+## ⏸️ Pause Menu
+
+![Pause Menu](./gameplay/pause_menu.png)
 
 # 🔧 Technical Highlights:
 
