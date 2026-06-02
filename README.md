@@ -167,19 +167,19 @@ SpaceShooter.exe
 ---
 # 🖼️ Sample Gameplay:
 
-![Title Screen](gameplay1.png)
+![Title Screen](./gameplay/gameplay1.png)
 
 ---
 
-![Pause Menu](gameplay2.png) 
+![Pause Menu](./screenshots/gameplay2.png)
 
 ---
 
-![In-Game 1](gameplay3.png)
+![In-Game 1](./screenshots/gameplay_3.png)
 
 ---
 
-![In-Game 2](gameplay4.png)
+![In-Game 2](./screenshots/gameplay_4.png)
 
 ---
 
